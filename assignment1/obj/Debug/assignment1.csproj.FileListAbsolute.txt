@@ -1,0 +1,6 @@
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/assignment1/bin/Debug/assignment1.exe
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/assignment1/bin/Debug/assignment1.pdb
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/assignment1/obj/Debug/assignment1.csproj.AssemblyReference.cache
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/assignment1/obj/Debug/assignment1.csproj.CoreCompileInputs.cache
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/assignment1/obj/Debug/assignment1.exe
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/assignment1/obj/Debug/assignment1.pdb
