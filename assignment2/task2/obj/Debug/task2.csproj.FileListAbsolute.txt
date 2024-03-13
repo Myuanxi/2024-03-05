@@ -1,0 +1,6 @@
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/assignment2/task2/bin/Debug/task2.exe
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/assignment2/task2/bin/Debug/task2.pdb
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/assignment2/task2/obj/Debug/task2.csproj.AssemblyReference.cache
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/assignment2/task2/obj/Debug/task2.csproj.CoreCompileInputs.cache
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/assignment2/task2/obj/Debug/task2.exe
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/assignment2/task2/obj/Debug/task2.pdb
