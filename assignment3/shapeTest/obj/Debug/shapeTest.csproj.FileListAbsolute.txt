@@ -1,0 +1,6 @@
+/Users/tsirp/Documents/GitHub/2024-03-05/assignment3/shapeTest/bin/Debug/shapeTest.exe
+/Users/tsirp/Documents/GitHub/2024-03-05/assignment3/shapeTest/bin/Debug/shapeTest.pdb
+/Users/tsirp/Documents/GitHub/2024-03-05/assignment3/shapeTest/obj/Debug/shapeTest.csproj.AssemblyReference.cache
+/Users/tsirp/Documents/GitHub/2024-03-05/assignment3/shapeTest/obj/Debug/shapeTest.csproj.CoreCompileInputs.cache
+/Users/tsirp/Documents/GitHub/2024-03-05/assignment3/shapeTest/obj/Debug/shapeTest.exe
+/Users/tsirp/Documents/GitHub/2024-03-05/assignment3/shapeTest/obj/Debug/shapeTest.pdb
