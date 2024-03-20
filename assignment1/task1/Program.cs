@@ -38,28 +38,28 @@ namespace Assignment1
                 switch (@ope)
                 {
                     case '+':
-                        result = operand1 + operand2;
+                        result = ope1 + ope2;
                         break;
                     case '-':
-                        result = operand1 - operand2;
+                        result = ope1 - ope2;
                         break;
                     case '*':
-                        result = operand1 * operand2;
+                        result = ope1 * ope2;
                         break;
                     case '/':
-                        if (operand2 == 0)
+                        if (ope2 == 0)
                         {
                             Console.WriteLine("除数不能为0，请重新输入。");
                             continue;
                         }
-                        result = (double)operand1 / operand2;
+                        result = (double)ope1 / ope2;
                         break;
                     default:
                         Console.WriteLine("您输入的运算符非法。");
                         continue;
                 }
 
-                Console.WriteLine($"运算结果: {operand1} {@operator} {operand2} = {result}");
+                Console.WriteLine($"运算结果: {ope1} {@ope} {ope2} = {result}");
 
                 // 询问用户是否继续
                 Console.WriteLine("是否继续计算？(Y/N)");
