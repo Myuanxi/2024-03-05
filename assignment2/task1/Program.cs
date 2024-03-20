@@ -6,28 +6,29 @@ namespace task1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("请输入一个数据");
             int data = int.Parse(Console.ReadLine());
-            int temp = 2;int[] rec = new int[100];int j = 1;
+            int temp = 2;
+            int[] rec = new int[data]; // 调整数组大小
+            int j = 0; // 修改数组索引起始值
             while (data >= temp)
             {
                 if (data % temp == 0)
                 {
                     data /= temp;
-                    if (rec[j - 1] != temp) { rec[j] = temp; j++; }
+                    if (rec[j - 1] != temp) // 避免记录重复的质因数
+                    {
+                        rec[j] = temp;
+                        j++;
+                    }
                 }
-                else if (data == temp)
-                {
-                    rec[j] = temp;j++;
-                }
-                else 
+                else
                 {
                     temp++;
-                }   
+                }
             }
-            for(int i = 1; i < 20; i++)
+            for (int i = 0; i < j; i++) // 修改循环条件
             {
-                if (rec[i]!=0) Console.Write(rec[i] + " ");
+                Console.Write(rec[i] + " ");
             }
         }
     }

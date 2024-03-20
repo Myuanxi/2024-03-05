@@ -4,38 +4,67 @@ namespace task3
 {
     internal class Program
     {
-        public int [] Screen()
+        // 使用筛法求解素数
+        public int[] SieveOfEratosthenes(int n)
         {
-            int temp = 2;
-            int[] arr = new int[101];
-            arr[0] = 1; arr[1] = 1;
-            while (temp <= 10)
+            bool[] prime = new bool[n + 1];
+            for (int i = 0; i <= n; i++)
             {
-                for(int i = 0; i < 101; i++)
-                {
-                    if (i % temp == 0 && i != temp) arr[i] = 1;
-                }
-                temp++;
+                prime[i] = true; // 初始化所有数为素数
             }
-            
-            return arr;
-        }
-        public void PrintNum(int[] arr)
-        {
-            for(int i = 0; i < arr.Length; i++)
+
+            for (int p = 2; p * p <= n; p++)
             {
-                if (arr[i] != 1)
+                // 如果 prime[p] 为 true，则 p 是素数
+                if (prime[p] == true)
                 {
-                    Console.Write(i+" ");
+                    // 将 p 的倍数标记为非素数
+                    for (int i = p * 2; i <= n; i += p)
+                    {
+                        prime[i] = false;
+                    }
                 }
             }
+
+            // 构建素数数组
+            int count = 0;
+            for (int p = 2; p <= n; p++)
+            {
+                if (prime[p])
+                {
+                    count++;
+                }
+            }
+
+            int[] primes = new int[count];
+            int idx = 0;
+            for (int p = 2; p <= n; p++)
+            {
+                if (prime[p])
+                {
+                    primes[idx++] = p;
+                }
+            }
+
+            return primes;
         }
+
+        // 打印素数数组
+        public void PrintPrimes(int[] primes)
+        {
+            foreach (int prime in primes)
+            {
+                Console.Write(prime + " ");
+            }
+        }
+
         static void Main(string[] args)
         {
-            int[] ans = new int[99];
-            int[] arr = new int[99];
-            var sol = new Program();
-            sol.PrintNum(sol.Screen());
+            Console.WriteLine("筛法求解素数：");
+            int n = 100; // 求解范围为 1 到 100 之间的素数
+            var program = new Program();
+            int[] primes = program.SieveOfEratosthenes(n);
+            program.PrintPrimes(primes);
         }
     }
 }
