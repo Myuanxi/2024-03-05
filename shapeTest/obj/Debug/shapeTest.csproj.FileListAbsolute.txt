@@ -1,0 +1,6 @@
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/shapeTest/bin/Debug/shapeTest.exe
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/shapeTest/bin/Debug/shapeTest.pdb
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/shapeTest/obj/Debug/shapeTest.csproj.AssemblyReference.cache
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/shapeTest/obj/Debug/shapeTest.csproj.CoreCompileInputs.cache
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/shapeTest/obj/Debug/shapeTest.exe
+/Users/tsirp/Desktop/C#/C#1/2024-03-05/shapeTest/obj/Debug/shapeTest.pdb
