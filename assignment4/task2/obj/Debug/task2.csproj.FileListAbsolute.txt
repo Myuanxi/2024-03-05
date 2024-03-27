@@ -1,0 +1,6 @@
+/Users/tsirp/Documents/GitHub/2024-03-05/assignment4/task2/bin/Debug/task2.exe
+/Users/tsirp/Documents/GitHub/2024-03-05/assignment4/task2/bin/Debug/task2.pdb
+/Users/tsirp/Documents/GitHub/2024-03-05/assignment4/task2/obj/Debug/task2.csproj.AssemblyReference.cache
+/Users/tsirp/Documents/GitHub/2024-03-05/assignment4/task2/obj/Debug/task2.csproj.CoreCompileInputs.cache
+/Users/tsirp/Documents/GitHub/2024-03-05/assignment4/task2/obj/Debug/task2.exe
+/Users/tsirp/Documents/GitHub/2024-03-05/assignment4/task2/obj/Debug/task2.pdb
