@@ -1,0 +1,6 @@
+/Users/tsirp/Documents/GitHub/2024-03-05/task1/bin/Debug/task1.exe
+/Users/tsirp/Documents/GitHub/2024-03-05/task1/bin/Debug/task1.pdb
+/Users/tsirp/Documents/GitHub/2024-03-05/task1/obj/Debug/task1.csproj.AssemblyReference.cache
+/Users/tsirp/Documents/GitHub/2024-03-05/task1/obj/Debug/task1.csproj.CoreCompileInputs.cache
+/Users/tsirp/Documents/GitHub/2024-03-05/task1/obj/Debug/task1.exe
+/Users/tsirp/Documents/GitHub/2024-03-05/task1/obj/Debug/task1.pdb
