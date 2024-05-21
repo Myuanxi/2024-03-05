@@ -1,0 +1,5 @@
+C:\Users\lenovo\Desktop\2024-03-05-main\assignment10\obj\Debug\net7.0\assignment10.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\2024-03-05-main\assignment10\obj\Debug\net7.0\assignment10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\2024-03-05-main\assignment10\obj\Debug\net7.0\assignment10.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\2024-03-05-main\assignment10\obj\Debug\net7.0\assignment10.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\2024-03-05-main\assignment10\obj\Debug\net7.0\assignment10.csproj.CoreCompileInputs.cache

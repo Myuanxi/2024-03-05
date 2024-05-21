@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\2024-03-05-main\assignment7\obj\Debug\assignment7.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\2024-03-05-main\assignment7\obj\Debug\assignment7.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\2024-03-05-main\assignment7\obj\Debug\WebCrawler.Form1.resources
+C:\Users\lenovo\Desktop\2024-03-05-main\assignment7\obj\Debug\assignment7.Properties.Resources.resources
+C:\Users\lenovo\Desktop\2024-03-05-main\assignment7\obj\Debug\assignment7.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\2024-03-05-main\assignment7\obj\Debug\assignment7.csproj.CoreCompileInputs.cache
